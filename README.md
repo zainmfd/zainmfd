@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Zain</h1>
-<h3 align="center">Robotics Engineer | UGV Systems | Autonomous Navigation</h3>
+<h3 align="center">Robotics Engineer | UGV Systems | Autonomous Navigation | Controls </h3>
 
 <p align="center">
   Robotics engineer specializing in <b>unmanned ground vehicle (UGV) systems</b>, with hands-on expertise in
