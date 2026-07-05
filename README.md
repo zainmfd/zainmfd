@@ -109,6 +109,7 @@ I'm **Muhammed Zain**, a Robotics and Autonomous Systems Engineer passionate abo
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainmfd&show_icons=true&theme=radical" alt="Muhammed Zain's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainmfd&theme=radical" alt="Muhammed Zain's streak stats" height="165"/>
 </p>
 
